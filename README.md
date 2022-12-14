@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @nodirmdh
+- 🌱 I’m currently learning Data Structures and Algorithms.
+- 💞️ I’m looking to collaborate on OpenSource Projects
+- 📫 How to reach me makhmudovnodir111@gmail.com
